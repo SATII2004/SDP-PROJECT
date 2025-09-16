@@ -1,0 +1,19 @@
+# Eclipse/Java
+backend/.metadata/
+*.classpath
+*.project
+*.settings/
+
+# Node modules
+frontend/client/node_modules/
+
+# Logs
+*.log
+
+# Build
+frontend/client/build/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
